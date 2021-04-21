@@ -5189,10 +5189,10 @@
         <div id="whiteboard">
           <div>
             <div class="board-text board-text-basic" style="color:#FFFFFF!important;">
-              <h2 class="ql-align-center">APAKAH ANDA BERUSIA 21+ TAHUN KE ATAS ?</h2>
+              <h2 class="ql-align-center">PRIMATON Untuk Kamu Para Lelaki Yang Ingin Membahagiakan Istri </h2>
             </div>
           </div>
-          <div class="links" data-v-034bc391><a href="https://men.lebihkuat.com/b.php" data-v-034bc391><button id="priority" data-animateType="bounce" class="animate__animated animate__bounce buttonBox" style="color:#FFFFFF;background:#979797;border-radius:10px;border:2px solid #979797;" data-v-034bc391><p style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0;margin:0;" data-v-034bc391><label style="cursor: pointer" data-v-034bc391>Ya saya Berusia 21+</label></p></button></a></div>
+          <div class="links" data-v-034bc391><a href="https://men.lebihkuat.com/b.php" data-v-034bc391><button id="priority" data-animateType="bounce" class="animate__animated animate__bounce buttonBox" style="color:#FFFFFF;background:#979797;border-radius:10px;border:2px solid #979797;" data-v-034bc391><p style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0;margin:0;" data-v-034bc391><label style="cursor: pointer" data-v-034bc391>Beli/Konsultasi Tentang Primaton</label></p></button></a></div>
           <div class="image" style="padding:15px 0px;">
             <img src="https://www.yang-utama.com/wp-content/uploads/2021/03/3333333333333333333.jpg" class="rectangle" style="width:45%;margin:0 auto;">
           </div>
@@ -5203,9 +5203,9 @@
             <img src="https://www.yang-utama.com/wp-content/uploads/2021/03/22222222.jpg" class="rectangle" style="width:45%;margin:0 auto;">
           </div>
           <div>
-            <div class="board-text board-text-basic" style="color:#FFFFFF!important;"><h2 class="ql-align-center">APAKAH ANDA BERUSIA 21+ TAHUN KE ATAS ?</h2></div>
+            <div class="board-text board-text-basic" style="color:#FFFFFF!important;"><h2 class="ql-align-center">Pastikan Istri Anda Selalu Bahagia</h2></div>
           </div>
-          <div class="links" data-v-034bc391><a href="https://men.lebihkuat.com/b.php" data-v-034bc391><button id="" data-animateType="" style="color:#FFFFFF;background:#979797;border-radius:10px;border:2px solid #979797;" data-v-034bc391><p style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0;margin:0;" data-v-034bc391><label style="cursor: pointer" data-v-034bc391>Ya saya Berusia 21+</label></p></button></a>
+          <div class="links" data-v-034bc391><a href="https://men.lebihkuat.com/b.php" data-v-034bc391><button id="" data-animateType="" style="color:#FFFFFF;background:#979797;border-radius:10px;border:2px solid #979797;" data-v-034bc391><p style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0;margin:0;" data-v-034bc391><label style="cursor: pointer" data-v-034bc391>Beli/Konsultasi Tentang Primaton</label></p></button></a>
           </div>
         </div>
         <div class="footer"> All Right Reserved 2021</div>
